@@ -1,0 +1,24 @@
+{
+  "name": "procache",
+  "version": "0.0.1",
+  "description": "Programmatic Cache",
+  "main": "procache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolaOrritos/procache.git"
+  },
+  "keywords": [
+    "programmatic",
+    "node",
+    "cache"
+  ],
+  "author": "Nicola Orritos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolaOrritos/procache/issues"
+  },
+  "homepage": "https://github.com/NicolaOrritos/procache#readme"
+}
